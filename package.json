@@ -1,0 +1,11 @@
+{
+  "name": "bugrepro",
+  "version": "1.0.0",
+  "description": "A reproduction of a vs code bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Evans",
+  "license": "ISC"
+}
